@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\4pia4gaa.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\4pia4gaa.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\avn1nnuu.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\avn1nnuu.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\g1wgkqhj.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\g1wgkqhj.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyMauiAppApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyMauiAppApi.props",
+      "PackagePath": "build\\MyMauiAppApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMauiAppApi.props",
+      "PackagePath": "buildMultiTargeting\\MyMauiAppApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyMauiAppApi.props",
+      "PackagePath": "buildTransitive\\MyMauiAppApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

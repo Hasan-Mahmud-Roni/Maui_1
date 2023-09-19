@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "CjNbg9YSxAI0z/5XEXPxGKZw2cxC53Zhi/nNbH5tL+o=",
+  "Source": "MyMauiAppApi",
+  "BasePath": "_content/MyMauiAppApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyMauiAppApi\\wwwroot",
+      "Source": "MyMauiAppApi",
+      "ContentRoot": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\",
+      "BasePath": "_content/MyMauiAppApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\4pia4gaa.jpg",
+      "SourceId": "MyMauiAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\",
+      "BasePath": "_content/MyMauiAppApi",
+      "RelativePath": "Pictures/4pia4gaa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\4pia4gaa.jpg"
+    },
+    {
+      "Identity": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\avn1nnuu.jpg",
+      "SourceId": "MyMauiAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\",
+      "BasePath": "_content/MyMauiAppApi",
+      "RelativePath": "Pictures/avn1nnuu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\avn1nnuu.jpg"
+    },
+    {
+      "Identity": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\g1wgkqhj.jpg",
+      "SourceId": "MyMauiAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\test\\MyMauiApp\\MyMauiAppApi\\wwwroot\\",
+      "BasePath": "_content/MyMauiAppApi",
+      "RelativePath": "Pictures/g1wgkqhj.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\g1wgkqhj.jpg"
+    }
+  ]
+}
